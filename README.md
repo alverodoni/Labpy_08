@@ -8,6 +8,15 @@ Mata Kuliah : Bahasa Pemrograman <p>
 ## Diagram Class
 ![gambar4](https://github.com/user-attachments/assets/e55572ed-5632-4519-8656-e1b36c5d34f8)
 
+## Penjelasan Diagram 
+1. Atribut:
+   - nim: Menyimpan NIM mahasiswa.
+   - nama: Menyimpan nama mahasiswa.
+   - tugas: Menyimpan nilai tugas mahasiswa.
+   - uts: Menyimpan nilai UTS mahasiswa.
+   - uas: Menyimpan nilai UAS mahasiswa.
+   - akhir: Menyimpan nilai akhir yang dihitung menggunakan metode calculate_final_grade().
+
 
 ## Flowchart
 ![gambar3](https://github.com/user-attachments/assets/97c99967-e140-4fa1-baaa-5e97c955f9d0)

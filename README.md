@@ -9,13 +9,22 @@ Mata Kuliah : Bahasa Pemrograman <p>
 ![gambar4](https://github.com/user-attachments/assets/e55572ed-5632-4519-8656-e1b36c5d34f8)
 
 ## Penjelasan Diagram 
-1. Atribut:
+1. Kelas Student:
+- Atribut:
    - nim: Menyimpan NIM mahasiswa.
    - nama: Menyimpan nama mahasiswa.
    - tugas: Menyimpan nilai tugas mahasiswa.
    - uts: Menyimpan nilai UTS mahasiswa.
    - uas: Menyimpan nilai UAS mahasiswa.
    - akhir: Menyimpan nilai akhir yang dihitung menggunakan metode calculate_final_grade().
+- Metode:
+   - __init__: Konstruktor untuk menginisialisasi atribut objek Student.
+   - calculate_final_grade: Menghitung dan mengembalikan nilai akhir berdasarkan bobot nilai tugas, UTS, dan UAS.
+2. Fungsi-fungsi:
+   - display_menu(): Menampilkan menu pilihan.
+   - display_students(students: list): Menampilkan daftar mahasiswa beserta nilai-nilainya.
+   - find_student_index(students: list, nama: str) -> int: Mencari indeks mahasiswa berdasarkan nama.
+   - main(): Fungsi utama yang menjalankan program dengan loop interaksi pengguna.
 
 
 ## Flowchart

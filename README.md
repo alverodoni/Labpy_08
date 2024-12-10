@@ -6,17 +6,17 @@ Mata Kuliah : Bahasa Pemrograman <p>
 
 # Program Input Nilai
 ## Diagram Class
-![gambar6](https://github.com/user-attachments/assets/f49e4e2c-c0ff-447f-9054-8045eeac82c8)
-
-
+![gambar4](https://github.com/user-attachments/assets/e55572ed-5632-4519-8656-e1b36c5d34f8)
 
 
 ## Flowchart
-![gambar5](https://github.com/user-attachments/assets/1159ed8b-faf9-4217-8d43-70c92b132a09)
+![gambar3](https://github.com/user-attachments/assets/97c99967-e140-4fa1-baaa-5e97c955f9d0)
+
 
 ## Program Python
-![gambar3](https://github.com/user-attachments/assets/b7230ece-628f-4245-ae87-0a79287d69fb)
-![gambar4](https://github.com/user-attachments/assets/f9cdff05-123d-44d0-a186-0c56b864327f)
+![gambar1](https://github.com/user-attachments/assets/b9d5e0a8-3001-43ff-9f76-3c97de190a2e)
+![gambar2](https://github.com/user-attachments/assets/30bbb892-211f-4a6f-ba22-4da80f73cc06)
+
 
 ### Penjelasan Program
 1. Kelas Student:
@@ -109,10 +109,12 @@ Mata Kuliah : Bahasa Pemrograman <p>
      - U: Mengubah data mahasiswa berdasarkan Nama.
      - H: Menghapus data mahasiswa berdasarkan Nama.
      - K: Keluar dari program.
+     - 
+   ## Hasil Program
+  ![gambar5](https://github.com/user-attachments/assets/4f7f7f08-7b5a-4dce-b5e4-f4688167ce92)
+  ![gambar6](https://github.com/user-attachments/assets/2b12dca3-040d-4260-be3f-6d0e7bdff86f)
 
-  ## Hasil Program
-  ![gambar1](https://github.com/user-attachments/assets/c2565624-aa72-4e1d-be00-dc6168627b9c)
-  ![gambar2](https://github.com/user-attachments/assets/2b918706-90c6-4389-8e0b-88db35690a11)
+
 
 
    

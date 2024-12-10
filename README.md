@@ -6,6 +6,8 @@ Mata Kuliah : Bahasa Pemrograman <p>
 
 # Program Input Nilai
 ## Diagram Class
+![gambar6](https://github.com/user-attachments/assets/6dabdf78-daaf-4fe4-aacf-c07231ca0bee)
+
 
 
 ## Flowchart
